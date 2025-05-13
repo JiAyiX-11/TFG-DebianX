@@ -1,6 +1,6 @@
-# Proyecto TFG - DebianX
+# Proyecto TFG - KaliX
 
-Este repositorio contiene los scripts, configuraciones y documentación del proyecto **DebianX**.
+Este repositorio contiene los scripts, configuraciones y documentación del proyecto **KaliX**.
 
 ---
 
@@ -8,8 +8,8 @@ Este repositorio contiene los scripts, configuraciones y documentación del proy
 
 La imagen ISO personalizada se puede descargar aquí:
 
-[Descargar DebianX_V1.iso](https://drive.google.com/file/d/1nbKypiJUQbBe9qK4HHKWFEE8ZTuFLteG/view?usp=sharing)
+[Descargar KaliX_V1.iso](https://drive.google.com/file/d/1nbKypiJUQbBe9qK4HHKWFEE8ZTuFLteG/view?usp=sharing)
 
-**Tamaño:** ~2 GB  
-**Contenido:** Instalador de Debian personalizado con herramientas y configuraciones para el TFG  
+**Tamaño:** ~5 GB  
+**Contenido:** Lenguaje, teclado en español, usuario x  
 **Fecha:** Mayo 2025
