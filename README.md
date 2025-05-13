@@ -8,6 +8,8 @@ Este repositorio contiene los scripts, configuraciones y documentación del proy
 
 La imagen ISO personalizada se puede descargar aquí:
 
+### Versión 1.
+
 [Descargar KaliX_V1.iso](https://drive.google.com/file/d/1Kyl8ZkM8MRlkEhUzBI413qqYvbbA6XpN/view?usp=sharing)
 
 **Tamaño:** ~5 GB  
